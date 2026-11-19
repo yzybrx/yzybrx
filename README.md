@@ -10,7 +10,7 @@ I build websites and educational apps, and I create videos and content.
 
 - **Web development** — websites and web apps
 - **Video and content** — [YouTube: @BeerandyTechSupport](https://www.youtube.com/@BeerandyTechSupport)
-- **[Yeezy Brix Learning Pack](https://learn.beerandytechsupport.com)** — 52 educational apps for kids, on the Microsoft Store. [Try my demos](https://yzybrx.github.io/)
+- **[Yeezy Brix Learning Pack](https://learn.beerandytechsupport.com)** — 52 educational apps for kids, also on the [Microsoft Store](https://apps.microsoft.com/detail/9MSQ38FLKX9X). [Try my demos](https://yzybrx.github.io/)
 
 ## Skills
 
@@ -21,4 +21,5 @@ HTML, CSS, JavaScript, PHP, Python, WordPress, Hostinger, video editing, and mot
 - [Try my demos](https://yzybrx.github.io/)
 - [beerandytechsupport.com](https://beerandytechsupport.com)
 - [learn.beerandytechsupport.com](https://learn.beerandytechsupport.com)
+- [Yeezy Brix on Microsoft Store](https://apps.microsoft.com/detail/9MSQ38FLKX9X)
 - [YouTube](https://www.youtube.com/@BeerandyTechSupport)
